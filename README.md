@@ -8,7 +8,7 @@
 
 **论文：**[Deep Speaker: an End-to-End Neural Speaker Embedding System](https://arxiv.org/pdf/1705.02304.pdf)
 
-**官方原始代码：**https://github.com/philipperemy/deep-speaker
+**官方原始代码：** https://github.com/philipperemy/deep-speaker
 
 **数据集：**[VCTK](http://homepages.inf.ed.ac.uk/jyamagis/release/VCTK-Corpus.tar.gz)
 
